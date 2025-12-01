@@ -16,17 +16,13 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/foxytouxxx/freeroot.git
+    git clone https://github.com/indushost-in/freeroot.git
     cd freeroot
     ```
 
 2. Run the installer script:
 
-    ```sh
-    ./root.sh
     ```
-    or
-    ```sh
     bash root.sh
     ```
 
@@ -37,7 +33,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
 ## License
 
-This Foxytoux Installer script is released under the [MIT License](LICENSE).
+This Script is made by foxytouxxx . This is just a fork of this script
 
 ## Credits
 
