@@ -18,10 +18,10 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
   echo "#"
-  echo "#                                      Foxytoux INSTALLER"
+  echo "#                                      Freeroot INSTALLER"
   echo "#"
-  echo "#                           Copyright (C) 2024, RecodeStudios.Cloud"
-  echo "#"
+  echo "#                this script is forked from https://github.com/foxytouxxx/freeroot
+  echo "#"                        Credits "foxytouxxx"
   echo "#"
   echo "#######################################################################################"
 
